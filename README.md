@@ -1,0 +1,2 @@
+# Design and Implementation
+Developed an ETL process to optimize resource allocation and freelancer hiring by reading and normalizing nested JSON data from on-premise web applications and tabular Excel data from SharePoint sites, persisting it in a highly normalized schema using delta tables, and incorporating features like backfills, time travels, batch sizing, failure notifications, and retry policies
